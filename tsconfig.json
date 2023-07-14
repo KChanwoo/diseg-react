@@ -17,7 +17,6 @@
         "moduleResolution": "node",
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "suppressImplicitAnyIndexErrors": true,
         "allowSyntheticDefaultImports": true,
         "typeRoots": [
             "node_modules/@types"
